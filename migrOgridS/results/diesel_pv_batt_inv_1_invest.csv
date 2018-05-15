@@ -1,0 +1,5 @@
+,0
+"(<oemof.solph.network.Source object at 0x00000000133CFDB8>, <oemof.solph.network.Bus object at 0x00000000133BEBD8>)",169.94357808
+"(<oemof.solph.components.GenericStorage object at 0x00000000133CF9A8>, None)",222.94383705
+"(<oemof.solph.components.GenericStorage object at 0x00000000133CF9A8>, <oemof.solph.network.Bus object at 0x00000000133BEBD8>)",121.727335029
+"(<oemof.solph.network.Bus object at 0x00000000133BEBD8>, <oemof.solph.components.GenericStorage object at 0x00000000133CF9A8>)",121.727335029
